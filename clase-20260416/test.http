@@ -1,0 +1,14 @@
+### -----
+
+# GET -
+GET http://localhost:3000
+
+### -----
+
+# GET -
+GET http://localhost:3000/usuarios
+
+### -----
+
+# GET -
+GET https://ies21.edu.ar/
